@@ -3,10 +3,9 @@
 **DevOps | Cloud Enthusiast | AWS Certified**
 
 - 📍 Gurugram, India  
+- 📱 +91 9810495144
 - 📧 mukulbhardwaj0412@gmail.com  
-- 📱 +91 9810495144  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mukulbhardwaj0412)  
-- 💻 [GitHub](https://github.com/MukulB0412)
 
 ---
 
