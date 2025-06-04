@@ -79,11 +79,6 @@ Amity University, Rajasthan
 
 ---
 
-## 📁 Notable Repositories
-- 🔗 [FastAPI + React Full Stack App with Docker and GitHub Actions](https://github.com/MukulB0412)
-
----
-
 ## 📌 Languages
 - English (Fluent)  
 - Hindi (Native)
