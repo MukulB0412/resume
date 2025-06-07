@@ -55,7 +55,7 @@ Amity University, Rajasthan
 ---
 
 ### 📈 Financial Data Extraction and Analysis  
-**Tech:** Python, Pandas, yfinance, MongoDB  
+**Tech:** Python, Pandas, yfinance  
 - Extracted and analyzed historical stock market data using yfinance  
 - Stored data in MongoDB for querying and visualization  
 - Demonstrated multiple stock retrieval strategies for finance-based use cases  
