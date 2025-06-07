@@ -4,7 +4,7 @@
 
 - 📍 Gurugram, India  
 - 📱 +91 9810495144
-- 📧 mukulbhardwaj0412@gmail.com  
+- 📧 mukulbhardwaj0412@gmail.com  | bhardwajmukul0412@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mukulbhardwaj0412)  
 
 ---
