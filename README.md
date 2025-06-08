@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Objective
-Aspiring DevOps/Cloud Engineering Intern passionate about building, containerizing, and deploying scalable cloud-native applications. Seeking an opportunity to apply my Docker, AWS, and CI/CD skills in a real-world cloud environment.
+Aspiring DevOps/Cloud Engineering Intern passionate about building, containerizing, and deploying scalable cloud-native applications.Seeking an opportunity to apply my Docker, AWS, and CI/CD skills in a real-world cloud environment.
 
 ---
 
