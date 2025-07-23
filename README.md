@@ -16,7 +16,7 @@ Aspiring DevOps/Cloud Engineering Intern passionate about building, containerizi
 
 ## 🎓 Education
 **Bachelors of technology in Computer Science and Engineering**  
-Amity University, Rajasthan 
+Amity University, Raj
 2022-2026
 ---
 
